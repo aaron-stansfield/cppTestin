@@ -1,0 +1,12 @@
+﻿  CppTest.cpp
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(85,12): error C2065: 'found': undeclared identifier
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(87,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(123,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(124,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(127,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(128,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(131,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(132,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(135,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(136,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jade\Desktop\cpp shit\CppTest\CppTest\CppTest.cpp(147,5): error C2059: syntax error: '}'
