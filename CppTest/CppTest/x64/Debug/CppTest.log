@@ -1,0 +1,5 @@
+﻿  CppTest.cpp
+C:\Users\aaron\Desktop\cpp\cppTestin-aaron-stansfield-patch-1\CppTest\CppTest\CppTest.cpp(81,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aaron\Desktop\cpp\cppTestin-aaron-stansfield-patch-1\CppTest\CppTest\CppTest.cpp(82,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\aaron\Desktop\cpp\cppTestin-aaron-stansfield-patch-1\CppTest\CppTest\CppTest.cpp(148,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CppTest.vcxproj -> C:\Users\aaron\Desktop\cpp\cppTestin-aaron-stansfield-patch-1\CppTest\x64\Debug\CppTest.exe
